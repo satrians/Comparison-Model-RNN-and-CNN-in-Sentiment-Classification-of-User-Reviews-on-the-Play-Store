@@ -27,6 +27,7 @@ Menggunakan WordCloud untuk visualisasi kata-kata yang sering muncul dalam tweet
 Menampilkan distribusi target berdasarkan target
 Menampilkan jumlah kata pada kolom "sentiment"
 Menampilkan panjang tweet pada kolom "sentiment"
+
 ![Screenshot 2025-03-16 141925](https://github.com/user-attachments/assets/0ac03eae-2c5b-4cf4-98b8-c17af4dee4f9)
 ![image](https://github.com/user-attachments/assets/ed394a9d-3deb-4d71-b446-5e3095405d6a)
 
