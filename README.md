@@ -1,5 +1,5 @@
 # Comparison-Model-RNN-and-CNN-in-Sentiment-Classification-of-User-Reviews-on-the-Play-Store
-Example Proyek Data Desain
+
 # Dataset
 Topik Dataset : User Reviews on the Play Store
 Tentang Dataset : Dataset ini berasal dari data aplikasi Play Store yang dapat digunakan untuk membangun model klasifikasi teks guna membedakan antara tweet yang sekiranya positif dan negatif
